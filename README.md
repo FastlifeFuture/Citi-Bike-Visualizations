@@ -10,9 +10,16 @@ Plots, Dashboards, and Stories with Tableau
 * [Features](Features)
 
 ## General Info
-
-![](Images/citi-bike-station-bikes.jpeg)
-
 Analyze data from the New York Citi Bike Program and discover phenomena in the data set. Use Tableau to create visuals to show your conclusion.
 
+## Technologies
+* Tableau
+* Pandas
+
+## Setup
+* Published on Tableau Public DeskTop
+
+## Features
+### Top 10 Stations to Start a Journey Dashboard
+![](Images/Dashboard)
 
