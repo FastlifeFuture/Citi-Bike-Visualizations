@@ -20,6 +20,12 @@ Analyze data from the New York Citi Bike Program and discover phenomena in the d
 * Published on Tableau Public DeskTop
 
 ## Features
-### Top 10 Stations to Start a Journey Dashboard
-![](Images/Dashboard)
+Top 10 Stations to Start a Journey Dashboard
+![](Images/Dashboard.png)
+
+Top 10 Stations to Start a Journey Graph
+![](Images/Graph.png)
+
+Map of Citi Bike stations sized by popularity
+![](Images/Map.png)
 
